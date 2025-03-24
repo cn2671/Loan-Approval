@@ -10,3 +10,5 @@ The dataset used can be found at this link: https://www.kaggle.com/datasets/lore
 The .ipynb file tests many classification and regression models on the data to predict loan approval and risk score (our two target variables). 
 
 You can run the notebook and read the project report, which summarizes and analyzes our findings. Please make sure to install all packages imported in our notebook for the code to run successfully.
+
+In the code sample, i have contributed on the data preprocessing part.
